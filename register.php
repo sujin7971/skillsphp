@@ -2,6 +2,13 @@
 <html lang="ko">
 
 <?php require("head.php"); ?>
+
+<style>
+    .container {
+        padding-top : 120px;
+    }
+</style>
+
 <body>
     <?php require("nav.php"); ?>
 

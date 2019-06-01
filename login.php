@@ -3,6 +3,11 @@
 
 <?php require("head.php"); ?>
 
+<style>
+    .container {
+        padding-top : 200px;
+    }
+</style>
 <body>
     <?php require("nav.php"); ?>
 

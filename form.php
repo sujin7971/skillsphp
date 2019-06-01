@@ -33,6 +33,17 @@
     
 <?php require("head.php"); ?>
 
+<style>
+    form {
+        padding-top : 130px;
+    }
+
+    body > h1 {
+        text-align : center;
+        padding-top : 50px;
+    }
+</style>
+
 <body>
     <?php require("nav.php"); ?>
     
